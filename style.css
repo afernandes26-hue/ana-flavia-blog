@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(255, 153, 238);
+    color: rgb(236, 236, 161);
+    text-align: center;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 5px solid #f758a7;
+    padding: 16px;
+}
+
+main{
+    background-color: rgb(243, 153, 191);
+    color: rgb(234, 245, 172);
+    text-align: center;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 5px solid #e8176e;
+    padding: 16px;
+    
+}
+
+.artigo-autor{
+    font-weight:bold ;
+}
+img{
+    height: 100px;
+    width: 150px;
+}
+
+footer{
+    background-color: rgb(241, 148, 210);
+    color: rgb(247, 247, 156);
+    text-align: center;
+    max-width: 100% ;
+    margin: 0 auto;
+    border: 5px solid #f13f89;
+    padding: 16px;
+}
